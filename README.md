@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yussef Mohamed</h1>
 <h3 align="center">Front-End Developer who is passionate about design and programming for pushing web technologies to the limits.</h3>
 
-- 📫 Reach me **yussefmohamed96@gmail.com**
+- 📫 Reach me @**yussefmohamed96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
